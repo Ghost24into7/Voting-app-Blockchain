@@ -1,10 +1,10 @@
-Voting App
+#Voting App
 
-📝 Overview
+##📝 Overview
 
 The Voting App is a decentralized application (dApp) built on blockchain technology. It leverages Ethereum, Solidity, and web3.js to provide a secure, transparent, and immutable voting system. The application integrates MetaMask for user authentication and Ganache for a local Ethereum blockchain.
 
-🚀 Features
+##🚀 Features
 
 Decentralization: Eliminates the need for a central authority.
 
@@ -16,7 +16,7 @@ MetaMask Integration: Secure user authentication and transaction signing.
 
 User-Friendly Interface: Built using HTML, CSS, and JavaScript for ease of use.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Blockchain: Ethereum
 
@@ -30,7 +30,7 @@ Web3 Interaction: web3.js
 
 Wallet Integration: MetaMask
 
-🛑 Prerequisites
+##🛑 Prerequisites
 
 Node.js and npm installed
 
@@ -38,7 +38,7 @@ Ganache and Truffle installed
 
 MetaMask browser extension
 
-🔧 Setup Instructions
+##🔧 Setup Instructions
 
 Clone the repository:
 
@@ -59,7 +59,7 @@ truffle migrate --network development
 
 Open index.html in your browser and connect MetaMask.
 
-📖 How to Use
+##📖 How to Use
 
 Connect your MetaMask wallet.
 
