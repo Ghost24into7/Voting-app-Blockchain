@@ -28,3 +28,23 @@ The **Voting App** is a decentralized application (dApp) built on blockchain tec
    ```bash
    git clone <repository-url>
    cd voting-app
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start Ganache:
+   ```bash
+   ganache-cli
+   ```
+4. Deploy the smart contract:
+   ```bash
+   truffle migrate --network development
+   ```
+5. Open `index.html` in your browser and connect MetaMask.
+
+## 📖 How to Use
+1. Connect your MetaMask wallet.
+2. Deploy the contract to a local blockchain.
+3. Add candidates and allow users to cast votes.
+4. View real-time vote counts on the dashboard.
